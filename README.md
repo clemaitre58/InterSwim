@@ -34,7 +34,7 @@ Lecture de la sortie :
 
 Exemple de séance : 
 
-1 à 3 séries (16 x 25m à 110% recup = 10") récup 6 à 10min entre les séries
-1 à 2 séries (8 x 50m à 105% recup = 20") récup 6 à 10min entre les séries
-1 à 2 séries (4 x 100m à 100% recup = 30") récup 6 à 10min entre les séries
-1 à 2 séries (2 x 200m à 100% recup = 30" avec plaquette) récup 6 à 10min entre les séries
+- 1 à 3 séries (16 x 25m à 110% recup = 10") récup 6 à 10min entre les séries
+- 1 à 2 séries (8 x 50m à 105% recup = 20") récup 6 à 10min entre les séries
+- 1 à 2 séries (4 x 100m à 100% recup = 30") récup 6 à 10min entre les séries
+- 1 à 2 séries (2 x 200m à 100% recup = 30" avec plaquette) récup 6 à 10min entre les séries
